@@ -7,5 +7,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.18.12",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-copy": "^1.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "moment": "^2.18.1",
+    "sass": "^1.0.0-beta.1",
+    "socket.io": "^2.0.3",
+    "tail": "^1.2.2"
+  },
+  "devDependencies": {
+    "iostat": "^0.2.2",
+    "usage": "^0.7.1"
+  }
 }

@@ -1,0 +1,14 @@
+.bodyBrrw{
+	background-repeat: no-repeat;
+	background-size: fill;
+	background-image: url('../img/marmotBack.jpg');
+	height: 100%;
+	.containerBrrw{
+		margin-top: 5em;
+		background-color: rgba(255,255,254,0.5);
+		.welcomeBrrw{
+			padding-top: 5em;
+			padding-bottom: 5em;
+		}
+	}
+}
